@@ -3,5 +3,5 @@ Easily extract number from string text
 
 ### Usage
 ```typescript
-const result = extractNumber('as12284makjwe); // 12284
+const result = extractNumber("as12284makj5w3e"); // 1228453
 ```
